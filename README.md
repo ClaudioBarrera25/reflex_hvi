@@ -2,8 +2,17 @@
 
 Proyecto para la clinica hospital veterinario integral
 
+# Creacion Repo
 
-# Paso 1 
+Se crea el repo y despues se copia su HTTPS:
+
+![1769810774342](image/README/1769810774342.png)
+
+Después, lo clonamos en la maquina: 
+
+git clone https://github.com/ClaudioBarrera25/reflex_hvi.git
+
+# Instalacion reflex
 
 1. Generar un requirements.txt, incluir reflex dentro de él.
 2. Crear un venv "python -m venv .venv"
