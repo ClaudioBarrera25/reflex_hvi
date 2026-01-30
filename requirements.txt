@@ -1,0 +1,7 @@
+reflex
+uvicorn
+sqlalchemy
+databases[sqlite]
+python-dotenv
+
+reflex==0.8.26
