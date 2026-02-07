@@ -4,4 +4,6 @@ sqlalchemy
 databases[sqlite]
 python-dotenv
 
+psycopg[binary]
+
 reflex==0.8.26

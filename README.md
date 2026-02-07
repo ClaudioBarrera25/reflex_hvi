@@ -8,7 +8,7 @@ Se crea el repo y despues se copia su HTTPS:
 
 ![1769810774342](image/README/1769810774342.png)
 
-Después, lo clonamos en la maquina: 
+Después, lo clonamos en la maquina:
 
 git clone https://github.com/ClaudioBarrera25/reflex_hvi.git
 
@@ -24,3 +24,8 @@ Seguidos esos pasos, se crearan las carpetas asset, reflex_hvi y rxconfig.py
 ![1769810369184](image/README/1769810369184.png)
 
 Añadir el .venv al .gitignore
+
+# DockerFile
+
+Lo saco de acá
+https://github.com/brody192/reflex-template/blob/main/Dockerfile
